@@ -3,3 +3,4 @@ Git is a free software!
 Creating a new branch is a quick and simple.
 simple change.
 remove origin
+change name to wuxl
